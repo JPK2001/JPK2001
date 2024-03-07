@@ -1,7 +1,7 @@
 # Jean-Paul Kouadio
 
 # 💫 About Me:
-Hi 🤝 I am Jean-Paul Kouadio, a two-year [Computer Systems Technology student @ Collège Boréal]() passionate about exploring the realms of coding, machine learning, and building robust applications.<br><br>🚀 What I'm Up To :<br>💫I’m currently working on a Full Stack developped Daily Health Assistant App with [C#.Xamarin]()<br>🤖Exploring Machine Learning in Python with [TensorFlow](), [Mediapipe](), [OpenCV]() and [PyTorch]() <br>💻Build and deploy a complet app with Python.Django<br><br>Check out my [Portfolio!](https://jpk2001.github.io/Personal/)<br><br>🌱 I’m currently learning :<br>⚡New programming languages and frameworks as [Django](), [Ruby](), [React](), [RubyOnRails]() and [Scikit-learn](https://scikit-learn.org/)<br>
+Hi 🤝 I am Jean-Paul Kouadio, a two-year [Computer Systems Technology student @ Collège Boréal]() passionate about exploring the realms of coding, machine learning, and building robust applications.<br><br>🚀 What I'm Up To :<br>💫I’m currently working on a Full Stack developped Daily Health Assistant App with [C#.Xamarin]()<br>🤖Exploring Machine Learning in Python with [TensorFlow](), [Mediapipe](), [OpenCV]() and [PyTorch]() <br>💻Build and deploy a complet app with Python.Django<br><br>Check out my [Portfolio!](https://jpk2001.github.io/Personal/portfolio)<br><br>🌱 I’m currently learning :<br>⚡New programming languages and frameworks as [Django](), [Ruby](), [React](), [RubyOnRails]() and [Scikit-learn](https://scikit-learn.org/)<br>
 
 
 ## 🌐 Socials:
